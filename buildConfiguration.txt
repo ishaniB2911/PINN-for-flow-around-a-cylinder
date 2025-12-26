@@ -1,0 +1,15 @@
+---
+
+## 🛠️ Build & Run
+
+### Prerequisites
+- CMake ≥ 3.13
+- A C++17 compiler (e.g., GCC 9+, Clang 10+, MSVC 2019+)
+
+### Build
+```bash
+git clone https://github.com/<your-user>/pinn-flow-cylinder.git
+cd pinn-flow-cylinder
+mkdir build && cd build
+cmake ..
+cmake --build . --config Release
