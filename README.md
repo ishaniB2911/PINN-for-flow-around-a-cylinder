@@ -1,7 +1,7 @@
 # Physics-Informed Neural Network (PINN) for Fluid Flow Around a Cylinder
 
 > **Applied AI + Computational Fluid Dynamics in Modern C++**
-> A high performance implementation of a Physics-Informed Neural Network (PINN) solving Navier-Stokes equations for a stead 2D flow around a cylinder-without traditional CFD Solvers.
+> A high performance implementation of a Physics-Informed Neural Network (PINN) solving Navier-Stokes equations for a steady 2D flow around a cylinder-without traditional CFD Solvers.
 >
 > ---
 ## Why This Project Stands Out
